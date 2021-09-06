@@ -49,12 +49,12 @@
   
   #sign-in {
     padding: 8px 11px;
-    background-color: #4285f4;
+    background-color: #42f48c;
     border-radius: 2px;
   }
   
   #sign-in-text {
-    color: white !important;
+    color: rgb(212, 145, 20) !important;
     font-weight: bold;
     text-decoration: none !important;
   }
@@ -206,7 +206,7 @@
   }
   .header{
     text-align:center ; 
-    color:blueviolet;
+    color:rgb(43, 174, 226);
     padding: 15px;
     padding-top: 0px !important;
   }
